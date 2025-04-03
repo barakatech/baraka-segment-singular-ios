@@ -16,7 +16,7 @@ Code changes:
 - Updated `SingularIntegrationFactory.h` to include conditional imports for `SEGIntegrationFactory.h` from different possible paths.
 
 # Usage
-1. Add SPM dependency: https://github.com/barakatech/segment-singular-ios
+1. Add SPM dependency: https://github.com/barakatech/baraka-segment-singular-ios
 2. Import by `import SingularSegment` on integration files
 
 ## For more infos please refer to source [documentation](https://segment.com/docs/connections/destinations/catalog/singular/)
